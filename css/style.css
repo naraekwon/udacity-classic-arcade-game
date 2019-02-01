@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 2em;
+	display: block;
+	height: 50px;
+}
